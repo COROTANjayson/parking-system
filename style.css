@@ -1,0 +1,12 @@
+body {margin: 50px;}
+
+
+.Avialable {
+    /* margin: 100px; */
+    background-color: aqua;
+    color: rgb(183, 233, 183);
+    font-size: large;
+}
+
+.myTable {border-style: solid;} 
+
